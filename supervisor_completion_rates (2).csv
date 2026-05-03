@@ -1,0 +1,4 @@
+model,laundry_done,dishwasher_done,oven_noon_done,oven_evening_done,deadlines_satisfied
+DQN,1.0,1.0,1.0,1.0,1.0
+PPO,1.0,1.0,0.955,1.0,0.955
+Rule-Based,1.0,1.0,1.0,1.0,1.0

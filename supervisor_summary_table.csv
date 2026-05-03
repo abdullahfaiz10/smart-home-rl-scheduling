@@ -1,0 +1,4 @@
+model,total_energy_used_kwh_mean,total_energy_used_kwh_std,external_energy_purchased_kwh_mean,external_energy_purchased_kwh_std,renewable_utilization_ratio_mean,renewable_utilization_ratio_std,deadlines_satisfied_mean,deadlines_satisfied_std,ac_heater_hours_mean,ac_heater_hours_std,battery_depletion_events_mean,battery_depletion_events_std,ev_unfinished_kwh_mean,ev_unfinished_kwh_std
+PPO,39.05,2.9487,13.2775,2.8263,0.871,0.1288,0.955,0.2074,4.996,0.8492,0.082,0.4444,0.0,0.0
+DQN,41.2304,4.1924,15.2275,3.5095,0.6775,0.0813,1.0,0.0,5.7055,0.937,0.419,0.4957,0.0,0.0
+Rule-Based,42.4803,3.6758,25.2488,3.9519,0.9011,0.0973,1.0,0.0,6.0,0.0,0.727,1.0731,0.0,0.0
